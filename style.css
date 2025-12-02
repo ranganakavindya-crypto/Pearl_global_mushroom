@@ -861,7 +861,7 @@ body {
     .globe-orbit {
         width: 240px;
         height: 240px;
-        margin: 8.5rem auto 0;
+        margin: 18.5rem auto 0;
     }
     /* reset text padding so heading is nicely left */
     .hero-content {
@@ -933,3 +933,4 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
