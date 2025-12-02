@@ -929,7 +929,7 @@ body {
     .globe-orbit {
         width: 240px;
         height: 240px;
-        margin: 10.5rem auto 0;
+        margin: 5.5rem auto 0;
     }
     .stat {
         width: 100%;
@@ -938,6 +938,7 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
 
 
 
