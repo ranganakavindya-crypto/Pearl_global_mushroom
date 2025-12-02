@@ -853,7 +853,7 @@ body {
 
 @media (max-width: 900px) {
     .hero-content {
-    padding-left: 0rem;
+    padding-left: -15rem;
     /* move “Fresh Gourmet Mushrooms” a bit right */
 }
     .hero {
@@ -914,7 +914,7 @@ body {
 @media (max-width: 540px) {
 
     .hero-content {
-    padding-left: 0rem;
+    padding-left: -15rem;
     /* move “Fresh Gourmet Mushrooms” a bit right */
 }
     .hero-stats {
@@ -928,3 +928,4 @@ body {
     }
 
 }
+
