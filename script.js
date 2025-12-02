@@ -140,7 +140,7 @@ function handleSubmit(e) {
     if (message) textLines.push(`Notes: ${message}`);
 
     const text = encodeURIComponent(textLines.join("\n"));
-    const url = `https://wa.me/${94776265638}?text=${text}`;
+    const url = `https://wa.me/94776265638?text=${text}`;
 
     window.open(url, "_blank");
     e.target.reset();
@@ -148,4 +148,5 @@ function handleSubmit(e) {
     return false;
 
 }
+
 
