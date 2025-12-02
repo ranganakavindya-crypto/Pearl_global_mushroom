@@ -852,6 +852,10 @@ body {
 /* Responsive */
 
 @media (max-width: 900px) {
+    .hero-content {
+    padding-left: 0rem;
+    /* move “Fresh Gourmet Mushrooms” a bit right */
+}
     .hero {
         grid-template-columns: 1fr;
     }
@@ -908,6 +912,11 @@ body {
 }
 
 @media (max-width: 540px) {
+
+    .hero-content {
+    padding-left: 0rem;
+    /* move “Fresh Gourmet Mushrooms” a bit right */
+}
     .hero-stats {
         gap: 1rem;
     }
@@ -917,4 +926,5 @@ body {
     .form-row {
         grid-template-columns: 1fr;
     }
+
 }
