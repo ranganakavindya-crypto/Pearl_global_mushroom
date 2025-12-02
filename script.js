@@ -1,5 +1,5 @@
 // CONFIG: replace with your real WhatsApp number (no +, no spaces)
-const WHATSAPP_NUMBER = "91XXXXXXXXXX"; // example: "919999999999"
+const WHATSAPP_NUMBER = "94776265638"; // example: "919999999999"
 
 // Loader
 window.addEventListener("load", () => {
@@ -148,3 +148,4 @@ function handleSubmit(e) {
     return false;
 
 }
+
